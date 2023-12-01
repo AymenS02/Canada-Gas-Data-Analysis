@@ -7,7 +7,11 @@ Questions that we want to answer from this case study:
 
 
 What is the percentage of difference from 1990 to 2023 in gas prices?
+
 How big of a difference the price of gas in premium and regular gas change in comparison to each other?
+
 Which city had the greatest change in gas?
+
 Which city had the least change in gas?
+
 Where there any spikes in the price of gasoline throughout the years, and why do we think the spikes existed?
