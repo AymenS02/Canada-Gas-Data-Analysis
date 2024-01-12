@@ -6,3 +6,6 @@ with open('GasDataExtraction.json') as file:
 
 # Accessing values
 print(data['Date'])  # Replace 'key' with the specific key in your JSON data
+
+
+
